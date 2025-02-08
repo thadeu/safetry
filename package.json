@@ -1,0 +1,44 @@
+{
+  "name": "safetry-ts",
+  "description": "A simple and lightweight transform to create a safe try/catch expressions in JavaScript/Typescript",
+  "author": "Thadeu Esteves<tadeuu@gmail.com>",
+  "repository": {
+    "url": "https://github.com/thadeu/safetry"
+  },
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "metaprogramming",
+    "typescript",
+    "try",
+    "try catch",
+    "try/catch",
+    "result object",
+    "functional progamming",
+    "monad"
+  ],
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "build:examples": "node examples/esbuild.js",
+    "compile:examples": "npm run build:examples && node examples/bundle.js",
+    "test": "npx vitest --run --coverage",
+    "test:watch": "npx vitest --watch"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/acorn": "^6.0.4",
+    "@types/node": "^22.10.7",
+    "@vitest/coverage-v8": "^3.0.5",
+    "acorn": "^8.14.0",
+    "acorn-typescript": "^1.4.13",
+    "astring": "^1.9.0",
+    "esbuild": "^0.24.2",
+    "vitest": "^3.0.5"
+  }
+}
