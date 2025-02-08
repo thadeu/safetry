@@ -24,8 +24,12 @@ Also, the same author created another proposal for try/catch, called `Try Operat
 
 https://github.com/arthurfiorette/proposal-try-operator
 
+<br />
+
 > [!NOTE]
 > I decided to create a plugin to ESBuild to make my first idea to this implementation, using IIFE and Transform code.
+
+<br />
 
 ## Documentation <!-- omit in toc -->
 
