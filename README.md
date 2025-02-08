@@ -10,7 +10,7 @@
 </p>
 
 > [!WARNING]
-> THIS IS AN EXPERIMENTAL PLUGIN TO USE WITH ESBUILD, DONT ENCORAGUE TO USE IT IN PRODUCTION YET.
+> THIS IS AN EXPERIMENTAL PLUGIN TO USE WITH ESBUILD, WE DONT ENCOURAGE TO USE IT IN PRODUCTION YET.
 
 ## Motivation
 
@@ -20,9 +20,12 @@ A few days we saw an idea to this, `Safe Assignment Operator Proposal`. But, may
 
 https://github.com/arthurfiorette/proposal-try-operator/tree/proposal-safe-assignment-operator
 
-Also, the same author createa another proposal for try/catch, called `Try Operator`
+Also, the same author created another proposal for try/catch, called `Try Operator`
 
 https://github.com/arthurfiorette/proposal-try-operator
+
+> [!NOTE]
+> I decided to create a plugin to ESBuild to make my first idea to this implementation, using IIFE and Transform code.
 
 ## Documentation <!-- omit in toc -->
 
