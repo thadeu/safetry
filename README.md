@@ -29,8 +29,6 @@ https://github.com/arthurfiorette/proposal-try-operator
 > [!NOTE]
 > I decided to create a plugin to ESBuild to make my first idea to this implementation, using IIFE and Transform code.
 
-<br />
-
 ## Documentation <!-- omit in toc -->
 
 Version    | Documentation
