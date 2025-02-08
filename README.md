@@ -20,7 +20,7 @@ A few days we saw an idea to this, `Safe Assignment Operator Proposal`. But, may
 
 https://github.com/arthurfiorette/proposal-try-operator/tree/proposal-safe-assignment-operator
 
-Also, the same author createa another proposal for try/catch, called `Try Operator`
+Also, the same author created another proposal for try/catch, called `Try Operator`
 
 https://github.com/arthurfiorette/proposal-try-operator
 
