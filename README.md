@@ -5,8 +5,7 @@
 
 <p align="center">
   <img alt="Build Status" src="https://github.com/thadeu/safetry/actions/workflows/ci.yml/badge.svg?cacheSeconds=0">  
-  <img alt="GitHub package.json version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/v/thadeu/sa🛟fetry?cacheSeconds=0">
-  <img alt="GitHub repo size" src="https://img.shields.io/bundlephobia/min/%40thadeu%2Fsafetry?cacheSeconds=0">
+  <img alt="GitHub package.json version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/v/thadeu/safetry?cacheSeconds=0">
 </p>
 
 > [!WARNING]
